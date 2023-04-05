@@ -1,11 +1,11 @@
 {
-"STATUS":false,
+"STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":"",
-       "applovin_fberrorshow":""
+      "app_adShowStatus":"1",
+       "applovin_fberrorshow":"1"
    },
    "PLACEMENT":{
        
