@@ -1,10 +1,11 @@
 {
 "STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":""
+      "app_adShowStatus":"1",
+       "applovin_fberrorshow":""
    },
    "PLACEMENT":{
       "Admob":{
@@ -17,31 +18,39 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
-          "Banner1":" ",
-        "Interstitial1":" ",
-         "Interstitial2":" ",
-         "Interstitial3":" ",
-         "Interstitial4":" ",
-         "Interstitial5":" ",
-         "Interstitial6":" ",
-         
-           
-          "Interstitial_exit":"",
-         "Interstitial_exit1":"",
-         "Interstitial_exit2":" ",  
-         "Interstitial_exit3":" ",
-         "Interstitial_exit4":" ",
-         "Interstitial_exit5":"",
-          "Interstitial_exit6":" ",
-             
+         "ad_showAdStatus":"1",
+         "Banner1":"IMG_16_9_APP_INSTALL#477487347896584_477487624563223",
+         "Interstitial1":"IMG_16_9_APP_INSTALL#581143580864150_581145454197296",
+         "Interstitial2":"IMG_16_9_APP_INSTALL#581143580864150_582839937361181",
+         "Interstitial3":"IMG_16_9_APP_INSTALL#581143580864150_582840054027836",
+         "Interstitial4":"IMG_16_9_APP_INSTALL#581143580864150_582840147361160",
+         "Interstitial5":"IMG_16_9_APP_INSTALL#581143580864150_582840247361150",
+         "Interstitial6":"IMG_16_9_APP_INSTALL#581143580864150_582840387361136",
+      
                
-         "Native1":" ",
-         "NativeBanner1":""
-
-          
-      },
+          "Interstitial_exit":"IMG_16_9_APP_INSTALL#581143580864150_582840477361127",
+         "Interstitial_exit1":"IMG_16_9_APP_INSTALL#581143580864150_582840614027780",
+         "Interstitial_exit2":"IMG_16_9_APP_INSTALL#581143580864150_582840690694439",  
+         "Interstitial_exit3":"IMG_16_9_APP_INSTALL#581143580864150_582840810694427",
+         "Interstitial_exit4":"IMG_16_9_APP_INSTALL#581143580864150_582840944027747",
+         "Interstitial_exit5":"IMG_16_9_APP_INSTALL#581143580864150_582841054027736",
+          "Interstitial_exit6":"IMG_16_9_APP_INSTALL#581143580864150_582841147361060",
+                         
+         "Native1":"IMG_16_9_APP_INSTALL#581143580864150_582841280694380",
+         "NativeBanner1":"IMG_16_9_APP_INSTALL#581143580864150_582841657361009"
      
+      },
+      "Unity":{
+         "ad_showAdStatus":"",
+          "AppID":" "
+      },
+       "applovin":{
+         "ad_showAdStatus":"",
+         "applovin_intretial":"03fa45c0f3144afc",
+          "applovin_baner":"",
+          "applovin_native":"972eb2d420a04bdf",
+          "applovin_native1":"270280597b19c8be"
+      },
       "QurekaLite":{
          "ad_showAdStatus":"",
           "AppID":"https://336.set.qureka.com/"
